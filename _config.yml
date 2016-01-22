@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://excited-at-resbaz.github.io
+title: My Blog
+email: 
+author: excited-at-resbaz
+description: My awesome new site ... very awesome
+paginate: 3
+google_analytics: 
